@@ -1,0 +1,28 @@
+Front End User Story 
+
+Anonymous User
+ As an anonymous user I can explore the website freely, view dance halls, view their details like photos, location, website, and reviews . i can also submit a message for questions or suggestions
+
+Registered user
+Admin
+User name: admin
+Password: password
+As the administrator of the dance hall finder i can do everything an anonymous user can plus having access to adding, updating, and deleting users, dancehalls, and their reviews.
+
+Views (at least 3)
+Home
+Explore Dance Halls (displays at least 5 objects
+Dance Hall Details
+About Us
+Contact Us
+Login
+Register (add a user)
+Admin Dashboard
+Update a Dance Hall
+Update a User (pending)
+Update a Review (pending)
+Add a Dance Hall
+Add a Review
+
+
+ 
